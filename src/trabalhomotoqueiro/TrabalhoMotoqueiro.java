@@ -24,7 +24,7 @@ public class TrabalhoMotoqueiro {
 
         int maior1, maior2, aux2, auxSoma1 = 0, auxSoma2 = 0;
 
-        aux = LeitorDeArquivo.leitorString("teste5.txt");
+        aux = LeitorDeArquivo.leitorString("teste10.txt");
 
         tempoInicial = currentTimeMillis();
 
